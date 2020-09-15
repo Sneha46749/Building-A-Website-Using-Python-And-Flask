@@ -1,4 +1,5 @@
-from flask import Flask, render_template  #render_template accesses an HTML file stored in python file anywhere
+from flask import Flask, render_template 
+#render_template accesses an HTML file stored in python file anywhere
 
 app = Flask(__name__) 
 
